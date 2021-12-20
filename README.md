@@ -1,8 +1,15 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daisuke85a&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daisuke85a&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daisuke85a&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daisuke85a&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daisuke85a&theme=default)
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=daisuke85a&count_private=true&show_icons=true" />
 </a>
 
-<!--
+
 **daisuke85a/daisuke85a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
